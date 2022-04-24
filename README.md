@@ -1,5 +1,4 @@
 # System-Analysis-and-Design
-Project documents submitted for CS255
 
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
 
